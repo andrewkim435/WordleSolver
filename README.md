@@ -1,6 +1,6 @@
 # Wordle_Solver
 A solver that utilizes information theory to solve for 5 letter words in Wordle using as few guesses as possible (credits to Youtube channel 
-3Blue1Brown for inspiration https://www.youtube.com/watch?v=v68zYyaEmEA
+3Blue1Brown for inspiration. https://www.youtube.com/watch?v=v68zYyaEmEA
 
 ## Wordle background
 Wordle is a word guessing game in which you must guess the 5-letter word in up to 6 tries. Each guess provides you information in the form of coloring on the letters - 
