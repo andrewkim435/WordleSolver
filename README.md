@@ -1,4 +1,4 @@
-# Wordle_Solver
+# WordleSolver
 A solver that utilizes information theory to solve for 5 letter words in Wordle using as few guesses as possible (credits to Youtube channel 
 3Blue1Brown for inspiration. https://www.youtube.com/watch?v=v68zYyaEmEA
 
